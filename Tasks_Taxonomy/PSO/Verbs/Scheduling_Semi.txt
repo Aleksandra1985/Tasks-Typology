@@ -1,0 +1,7 @@
+﻿
+check
+plan
+assign
+process
+provision
+

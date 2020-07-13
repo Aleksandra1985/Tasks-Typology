@@ -1,0 +1,10 @@
+﻿
+assign
+provision
+delivery
+process
+request
+
+
+
+

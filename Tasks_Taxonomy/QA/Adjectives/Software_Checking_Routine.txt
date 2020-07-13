@@ -1,0 +1,8 @@
+﻿
+connected
+updated
+installed
+first
+clear
+joined
+

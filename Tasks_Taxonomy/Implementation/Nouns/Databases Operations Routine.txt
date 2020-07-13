@@ -1,0 +1,18 @@
+﻿
+db
+database
+agent 
+standby 
+script 
+telekom IT 
+firewall 
+jboss 
+data 
+address 
+port 
+scheme 
+schema 
+hotfix 
+protocol
+minute
+table

@@ -1,0 +1,11 @@
+﻿
+delete
+work
+step
+copy
+navigator
+navigate
+activate
+switchover
+
+

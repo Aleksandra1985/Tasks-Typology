@@ -1,0 +1,7 @@
+﻿
+total
+public
+normal
+affected
+
+

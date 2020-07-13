@@ -1,0 +1,20 @@
+﻿
+device
+image
+release 
+disk 
+vdisk
+logon 
+side
+point
+documentation
+todo
+status
+data collector
+day
+seconds
+test account
+memory
+qs
+qa
+check

@@ -1,0 +1,12 @@
+﻿
+mean
+control
+confirm
+execution
+close
+billing
+bring
+apply
+
+
+

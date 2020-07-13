@@ -1,0 +1,7 @@
+﻿
+marked
+brief
+automatic
+filled
+light
+actual

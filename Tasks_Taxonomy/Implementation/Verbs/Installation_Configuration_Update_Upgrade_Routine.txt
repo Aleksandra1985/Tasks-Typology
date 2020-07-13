@@ -1,0 +1,16 @@
+﻿
+installation
+configuration
+update
+upgrade
+fill 
+see
+import 
+set
+enter
+stay 
+quit
+use
+patch
+switch 
+routing

@@ -1,0 +1,9 @@
+﻿
+affected
+restricted
+international
+enabled
+faulty
+partial
+offline
+

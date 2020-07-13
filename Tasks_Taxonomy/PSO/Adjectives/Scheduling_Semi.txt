@@ -1,0 +1,9 @@
+﻿
+projected
+needed
+planned
+assigned
+affected
+available
+offline
+
