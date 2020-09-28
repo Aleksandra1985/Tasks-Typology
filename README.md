@@ -1,0 +1,3 @@
+# Tasks-Typology
+Under typology of tasks, we understand the actual task meaning, i.e., what is needed to be done. We use Latent Dirichlet Allocation Algorithm to facilitate the process of manual creation of tasksk types. Subsequently, the obtained topics are labelled, discussed, refined, and consolidated into final labels by the experts correspondingly. The process can be supported by a computational analysis on the tasks descriptions to iteratively validate the obtained labels.  Tasks subtypes are created following the same process. 
+3_Tasks.py identifies task type and subtype according to the introduced domain-specific tasks taxonomy.
