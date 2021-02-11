@@ -1,9 +1,0 @@
-﻿
-shutdown
-perform
-restrict
-enabling
-flash
-provision
-
-

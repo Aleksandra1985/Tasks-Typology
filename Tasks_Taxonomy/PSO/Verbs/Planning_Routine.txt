@@ -1,6 +1,0 @@
-﻿
-set
-copy
-reboot
-agree
-replication
