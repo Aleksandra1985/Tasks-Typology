@@ -1,0 +1,18 @@
+
+plan
+assign
+process
+projected
+coordinator service
+time
+status
+duration
+worker
+replication
+available
+provision
+needed
+virtual
+active
+whole
+affected

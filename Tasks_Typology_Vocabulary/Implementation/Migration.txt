@@ -1,0 +1,23 @@
+
+migration
+transfer
+import
+export
+relocate
+boxer
+CMO
+FMO
+firewall cluster
+migration baremetal
+internet firewall migration
+public IP addresses
+migration back original asset
+online vm migration
+migration preparation
+boxer migration
+installation-migration
+data migration
+customer migration
+storage migration
+new temporarily storage
+database migration

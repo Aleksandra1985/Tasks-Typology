@@ -1,0 +1,10 @@
+﻿
+release
+rollout
+notes
+software release
+OS release
+installation release
+implementation release
+update release
+deployment release
