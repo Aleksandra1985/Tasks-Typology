@@ -4,7 +4,7 @@ Under tasks typology, we understand the actual task activity, i.e., what is need
 
 This repository contains the following files: tasks typology vocabulary (types and subtypes), python files for identifying tasks types and tasks subtypes (as an input for python files serve tasks textual desciptions and tasks typology vocabulary), excel file with the motivating example and illustrative tasks typology vocabulary. 
 
-Below, we describe the main stages of Step 4. Typology Aspect Extraction
+Below, we describe the main stages of Step 4. Typology Aspect Extraction.
 
 # Step 4.1. Typology Aspect Extraction (Tasks Type)
 
