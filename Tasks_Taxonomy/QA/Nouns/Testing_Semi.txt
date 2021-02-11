@@ -1,9 +1,0 @@
-﻿
-exchange
-method
-datacenter
-capacity
-Windows
-Patrol
-
-

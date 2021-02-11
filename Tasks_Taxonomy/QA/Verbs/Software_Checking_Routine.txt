@@ -1,7 +1,0 @@
-﻿
-reboot
-connect
-work
-add
-use
-
