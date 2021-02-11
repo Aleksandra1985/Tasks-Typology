@@ -1,9 +1,0 @@
-﻿
-Oracle
-Patrol
-grid 
-home 
-datacenter 
-infrastructure 
-cluster
-system 

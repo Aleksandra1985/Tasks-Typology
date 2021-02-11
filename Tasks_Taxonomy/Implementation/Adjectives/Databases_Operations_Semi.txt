@@ -1,7 +1,0 @@
-﻿
-total
-public
-normal
-affected
-
-

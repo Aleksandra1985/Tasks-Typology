@@ -1,6 +1,0 @@
-﻿
-affected
-main
-performing
-running
-long
