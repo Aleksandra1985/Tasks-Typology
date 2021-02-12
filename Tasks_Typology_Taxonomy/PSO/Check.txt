@@ -1,0 +1,10 @@
+
+check
+analyze
+checkup
+review
+control
+reboot
+set
+copy
+agree

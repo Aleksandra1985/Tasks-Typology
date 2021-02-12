@@ -1,0 +1,20 @@
+﻿
+configuration
+configure
+deconfiguration
+reconfigure
+arrange
+setup
+design
+restore
+items
+backup
+deployment
+routing
+disconfigure
+service agents
+customer configurator
+config file
+monthly report
+table
+cluster 

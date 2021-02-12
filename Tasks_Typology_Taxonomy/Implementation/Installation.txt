@@ -1,0 +1,18 @@
+﻿
+install
+installation
+reinstall
+reinstallation
+deinstall
+deinstallation
+post-installation
+deploy
+new
+latest
+instance
+version
+package
+backend
+hotfix
+given fixes
+install script 
